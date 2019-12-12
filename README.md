@@ -3,9 +3,9 @@
 
 ###making a responsive website with boostrap documentation.
 
-![Contact page sketch](images\Markdown-pic\contact.jpg)
-![portfolio page sketch](/images\logo.png)
-![index file sketch](\images\logo.png)
+![Contact page sketch](Assets\images\Markdown-pic\contact.jpg)
+![portfolio page sketch](Assets\images\Markdown-pic\portfolio.jpg)
+![index file sketch](Assets\images\Markdown-pic\Index.jpg)
 
 
 
@@ -17,6 +17,8 @@
 
 *adding rounded style to the picture from boostrap:* [ Link ](https://getbootstrap.com/docs/4.4/utilities/borders/)  
 
-*adding button style from boostrap:*  `<button type="button" class="btn btn-info">Info</button>`
+*adding button style **class="btn btn-info"** from boostrap*   
+
+*Using responsive layout class= **container-sm** to make wesite responsive for deferent devices*
 
 
