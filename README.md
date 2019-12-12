@@ -3,9 +3,9 @@
 
 ###making a responsive website with boostrap documentation.
 
-![Contact page sketch](Assets\images\Markdown-pic\contact.jpg)
-![portfolio page sketch](Assets\images\Markdown-pic\portfolio.jpg)
-![index file sketch](Assets\images\Markdown-pic\Index.jpg)
+![Contact page sketch](Assets/images/Markdown-pic/contact.jpg)
+![portfolio page sketch](Assets/images/Markdown-pic/portfolio.jpg)
+![index file sketch](Assets/images/Markdown-pic/Index.jpg)
 
 
 
