@@ -1,35 +1,26 @@
-
- 
-
-  #header{
-       padding: 0px;
-       margin: 0px;
-   }
-
   
-
-   #navbar{
-   
-      margin-top: 15px;
-      padding: 25px;
-    text-align:center;
-    
-}
 
 a{color:gray;}
 
 a:hover{
-    color: cadetblue;
+    color: rgb(228, 168, 144);
 }
 
 
-.container{
-    background-color: white;
+
+.navbar-brand{
+    background-color: rgb(11, 170, 170);
+    padding: 5px;
+    margin-left: -14px;
 }
 
-.container-fluid{
-    background-color: white;
+#navbar{
     padding: 0px;
+    
+}
+
+.container-sm{
+    background-color: white;
     width: 100%;
     
 }
@@ -41,11 +32,11 @@ body{
 
 
 h2{
-    padding: 20px;
+    padding: 10px;
     margin: 0px;
     height: 100%;
     width: 100%;
-    background-color: rgb(2, 151, 151);
+    /* background-color: rgb(2, 151, 151); */
     font-family: 'Kanit', sans-serif;
     text-align:center;
     color: white;
@@ -62,7 +53,7 @@ h4{
 }
 
 h6 {
-    background-color: rgb(2, 151, 151);
+    background-color:  rgb(11, 170, 170);
     padding: 20px;
     text-align: center;
     color: white;
@@ -72,15 +63,7 @@ h6 {
 }
 
 
-footer{
-    margin-top: 170px;
-    padding: 20px;
-    background: rgba(63, 62, 62, 0.719); border-top:rgb(32, 136, 136) 4px solid;
-    color: rgb(192, 189, 189);
-    text-align: center;
-    width: 100%;
-    position: sticky;
-}
+
 
 p{  
        text-align: justify;
@@ -93,16 +76,11 @@ img{
     
 }
 
-.port-pic{
-    margin: 15px;
-}
-
-
-
 /* syle for index file */
 
 #main-box-index{
-        margin-top: 20px;
+    
+        margin-top: 40px;
         background-color: white;
 }
 
@@ -110,8 +88,8 @@ img{
 /* style for contact page */
 
 #main-box-cont{
-    width:100%;
-    margin-top:20px;
+   
+    margin-top:40px;
     background-color: white;
 }
 
@@ -139,7 +117,8 @@ img{
 #button{
 
     margin-bottom: 15px;
-   
+    
+
 }
 
 
@@ -147,15 +126,28 @@ img{
 /* style for portfolio file */
 
 #main-box-port{
-    width: 100%x;
-    margin-top: 20px;
-    padding: 0px;
-    
+        margin-top: 40px;
+        
     background-color: white;
 }
 
+.port-pic{
+    margin: 15px;
+}
+
+/* style for footer */
 
 
+
+footer{
+    margin-top: 170px;
+    padding: 20px;
+    background: rgba(63, 62, 62, 0.856); border-top:rgb(32, 136, 136) 4px solid;
+    color: rgb(192, 189, 189);
+    text-align: center;
+    width: 100%;
+    position: sticky;
+}
 
 
 

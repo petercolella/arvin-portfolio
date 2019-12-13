@@ -1,7 +1,10 @@
 # Responsive-design
 
 
-###making a responsive website with boostrap documentation.
+##making a responsive website with boostrap documentation.
+
+
+### Web site sketch :
 
 ![Contact page sketch](Assets/images/Markdown-pic/contact.jpg)
 ![portfolio page sketch](Assets/images/Markdown-pic/portfolio.jpg)
