@@ -1,6 +1,9 @@
   
 
-a{color:gray;}
+a{
+    color:gray;
+
+margin-right: 23px;}
 
 a:hover{
     color: rgb(228, 168, 144);

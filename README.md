@@ -24,4 +24,14 @@
 
 *Using responsive layout class= **container-sm** to make wesite responsive for deferent devices*
 
+*adding navbar from boostrap*[Link ](https://getbootstrap.com/docs/4.4/components/navbar/)
+
+
+*adding JavaScript link from boostrap to the website to active the Hamburger menu*[ Link](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+
+*adding CSS link from boostrap*[link](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+
+
+
+
 
